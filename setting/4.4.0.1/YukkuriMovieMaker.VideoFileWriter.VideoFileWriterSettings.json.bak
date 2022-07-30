@@ -1,0 +1,9 @@
+﻿{
+  "Plugin": "YukkuriMovieMaker.Plugin.FileWriter.MediaFoundation.MFVideoFileWriterPlugin",
+  "IsAudioCrapFixEnabled": true,
+  "IsAudioMaximizerEnabled": false,
+  "IsCreateSub": false,
+  "IsCreateVoiceList": false,
+  "EncodeFrom": 0,
+  "EncodeTo": 38095
+}

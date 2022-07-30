@@ -1,0 +1,2462 @@
+﻿{
+  "SystemFonts": [
+    {
+      "FontName": "Arial",
+      "CanonicalFontName": "Arial",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Arial",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Arial Narrow",
+      "CanonicalFontName": "Arial",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Arial Narrow",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Arial Black",
+      "CanonicalFontName": "Arial",
+      "CanonicalFontWeight": "Heavy",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Arial Black",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift Light",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bahnschrift Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift Light Condensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bahnschrift Light Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift Light SemiCondensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Bahnschrift Light SemiCondensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiLight",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bahnschrift SemiLight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiLight Condensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bahnschrift SemiLight Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiLight SemiCondensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Bahnschrift SemiLight SemiCondensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bahnschrift",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift Condensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bahnschrift Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiCondensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Bahnschrift SemiCondensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiBold",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bahnschrift SemiBold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiBold Condensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bahnschrift SemiBold Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bahnschrift SemiBold SemiCondensed",
+      "CanonicalFontName": "Bahnschrift",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Bahnschrift SemiBold SemiCondensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Calibri Light",
+      "CanonicalFontName": "Calibri",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Calibri Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Calibri",
+      "CanonicalFontName": "Calibri",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Calibri",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Cambria",
+      "CanonicalFontName": "Cambria",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Cambria",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Cambria Math",
+      "CanonicalFontName": "Cambria Math",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Cambria Math",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Candara Light",
+      "CanonicalFontName": "Candara",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Candara Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Candara",
+      "CanonicalFontName": "Candara",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Candara",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Comic Sans MS",
+      "CanonicalFontName": "Comic Sans MS",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Comic Sans MS",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Consolas",
+      "CanonicalFontName": "Consolas",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Consolas",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Constantia",
+      "CanonicalFontName": "Constantia",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Constantia",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Corbel Light",
+      "CanonicalFontName": "Corbel",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Corbel Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Corbel",
+      "CanonicalFontName": "Corbel",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Corbel",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Courier New",
+      "CanonicalFontName": "Courier New",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Courier New",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Ebrima",
+      "CanonicalFontName": "Ebrima",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Ebrima",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Medium",
+      "CanonicalFontName": "Franklin Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Franklin Gothic Medium",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Medium Cond",
+      "CanonicalFontName": "Franklin Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Franklin Gothic Medium Cond",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Demi",
+      "CanonicalFontName": "Franklin Gothic",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Franklin Gothic Demi",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Demi Cond",
+      "CanonicalFontName": "Franklin Gothic",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Franklin Gothic Demi Cond",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Heavy",
+      "CanonicalFontName": "Franklin Gothic",
+      "CanonicalFontWeight": "Heavy",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Franklin Gothic Heavy",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gabriola",
+      "CanonicalFontName": "Gabriola",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Gabriola",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gadugi",
+      "CanonicalFontName": "Gadugi",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Gadugi",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Georgia",
+      "CanonicalFontName": "Georgia",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Georgia",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Impact",
+      "CanonicalFontName": "Impact",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Impact",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Ink Free",
+      "CanonicalFontName": "Ink Free",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Ink Free",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Javanese Text",
+      "CanonicalFontName": "Javanese Text",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Javanese Text",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Leelawadee UI Semilight",
+      "CanonicalFontName": "Leelawadee UI",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Leelawadee UI Semilight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Leelawadee UI",
+      "CanonicalFontName": "Leelawadee UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Leelawadee UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Console",
+      "CanonicalFontName": "Lucida Console",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Lucida Console",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Sans Unicode",
+      "CanonicalFontName": "Lucida Sans Unicode",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Sans Unicode",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Malgun Gothic Semilight",
+      "CanonicalFontName": "Malgun Gothic",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Malgun Gothic Semilight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Malgun Gothic",
+      "CanonicalFontName": "Malgun Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Malgun Gothic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft Himalaya",
+      "CanonicalFontName": "Microsoft Himalaya",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft Himalaya",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft JhengHei Light",
+      "CanonicalFontName": "Microsoft JhengHei",
+      "CanonicalFontWeight": 290,
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft JhengHei Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft JhengHei",
+      "CanonicalFontName": "Microsoft JhengHei",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft JhengHei",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft JhengHei UI Light",
+      "CanonicalFontName": "Microsoft JhengHei UI",
+      "CanonicalFontWeight": 290,
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft JhengHei UI Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft JhengHei UI",
+      "CanonicalFontName": "Microsoft JhengHei UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft JhengHei UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft New Tai Lue",
+      "CanonicalFontName": "Microsoft New Tai Lue",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft New Tai Lue",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft PhagsPa",
+      "CanonicalFontName": "Microsoft PhagsPa",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft PhagsPa",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft Sans Serif",
+      "CanonicalFontName": "Microsoft Sans Serif",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft Sans Serif",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft Tai Le",
+      "CanonicalFontName": "Microsoft Tai Le",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft Tai Le",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft YaHei Light",
+      "CanonicalFontName": "Microsoft YaHei",
+      "CanonicalFontWeight": 290,
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft YaHei Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft YaHei",
+      "CanonicalFontName": "Microsoft YaHei",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft YaHei",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft YaHei UI Light",
+      "CanonicalFontName": "Microsoft YaHei UI",
+      "CanonicalFontWeight": 290,
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft YaHei UI Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft YaHei UI",
+      "CanonicalFontName": "Microsoft YaHei UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft YaHei UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft Yi Baiti",
+      "CanonicalFontName": "Microsoft Yi Baiti",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft Yi Baiti",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MingLiU-ExtB",
+      "CanonicalFontName": "MingLiU-ExtB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MingLiU-ExtB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "PMingLiU-ExtB",
+      "CanonicalFontName": "PMingLiU-ExtB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "PMingLiU-ExtB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MingLiU_HKSCS-ExtB",
+      "CanonicalFontName": "MingLiU_HKSCS-ExtB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MingLiU_HKSCS-ExtB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Mongolian Baiti",
+      "CanonicalFontName": "Mongolian Baiti",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Mongolian Baiti",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "ＭＳ ゴシック",
+      "CanonicalFontName": "ＭＳ ゴシック",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "ＭＳ ゴシック",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MS UI Gothic",
+      "CanonicalFontName": "MS UI Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MS UI Gothic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "ＭＳ Ｐゴシック",
+      "CanonicalFontName": "ＭＳ Ｐゴシック",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "ＭＳ Ｐゴシック",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MV Boli",
+      "CanonicalFontName": "MV Boli",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MV Boli",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Myanmar Text",
+      "CanonicalFontName": "Myanmar Text",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Myanmar Text",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Nirmala UI Semilight",
+      "CanonicalFontName": "Nirmala UI",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Nirmala UI Semilight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Nirmala UI",
+      "CanonicalFontName": "Nirmala UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Nirmala UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Palatino Linotype",
+      "CanonicalFontName": "Palatino Linotype",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Palatino Linotype",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe MDL2 Assets",
+      "CanonicalFontName": "Segoe MDL2 Assets",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe MDL2 Assets",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe Print",
+      "CanonicalFontName": "Segoe Print",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe Print",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe Script",
+      "CanonicalFontName": "Segoe Script",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe Script",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Light",
+      "CanonicalFontName": "Segoe UI",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Semilight",
+      "CanonicalFontName": "Segoe UI",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Semilight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI",
+      "CanonicalFontName": "Segoe UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Semibold",
+      "CanonicalFontName": "Segoe UI",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Semibold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Black",
+      "CanonicalFontName": "Segoe UI",
+      "CanonicalFontWeight": "Heavy",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Black",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Emoji",
+      "CanonicalFontName": "Segoe UI Emoji",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Emoji",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Historic",
+      "CanonicalFontName": "Segoe UI Historic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Historic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Segoe UI Symbol",
+      "CanonicalFontName": "Segoe UI Symbol",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Segoe UI Symbol",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "SimSun",
+      "CanonicalFontName": "SimSun",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "SimSun",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "NSimSun",
+      "CanonicalFontName": "NSimSun",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "NSimSun",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "SimSun-ExtB",
+      "CanonicalFontName": "SimSun-ExtB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "SimSun-ExtB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Small",
+      "CanonicalFontName": "Sitka Small",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Small",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Text",
+      "CanonicalFontName": "Sitka Text",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Text",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Subheading",
+      "CanonicalFontName": "Sitka Subheading",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Subheading",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Heading",
+      "CanonicalFontName": "Sitka Heading",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Heading",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Display",
+      "CanonicalFontName": "Sitka Display",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Display",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sitka Banner",
+      "CanonicalFontName": "Sitka Banner",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sitka Banner",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Sylfaen",
+      "CanonicalFontName": "Sylfaen",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Sylfaen",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Symbol",
+      "CanonicalFontName": "Symbol",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Symbol",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tahoma",
+      "CanonicalFontName": "Tahoma",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Tahoma",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Times New Roman",
+      "CanonicalFontName": "Times New Roman",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Times New Roman",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Trebuchet MS",
+      "CanonicalFontName": "Trebuchet MS",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Trebuchet MS",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Verdana",
+      "CanonicalFontName": "Verdana",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Verdana",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Webdings",
+      "CanonicalFontName": "Webdings",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Webdings",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Wingdings",
+      "CanonicalFontName": "Wingdings",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Wingdings",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游ゴシック Light",
+      "CanonicalFontName": "游ゴシック",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游ゴシック Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游ゴシック",
+      "CanonicalFontName": "游ゴシック",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游ゴシック",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游ゴシック Medium",
+      "CanonicalFontName": "游ゴシック",
+      "CanonicalFontWeight": "Medium",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游ゴシック Medium",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Yu Gothic UI Light",
+      "CanonicalFontName": "Yu Gothic UI",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Yu Gothic UI Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Yu Gothic UI Semilight",
+      "CanonicalFontName": "Yu Gothic UI",
+      "CanonicalFontWeight": "SemiLight",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Yu Gothic UI Semilight",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Yu Gothic UI",
+      "CanonicalFontName": "Yu Gothic UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Yu Gothic UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Yu Gothic UI Semibold",
+      "CanonicalFontName": "Yu Gothic UI",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Yu Gothic UI Semibold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "BIZ UDゴシック",
+      "CanonicalFontName": "BIZ UDゴシック",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "BIZ UDゴシック",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "BIZ UDPゴシック",
+      "CanonicalFontName": "BIZ UDPゴシック",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "BIZ UDPゴシック",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "BIZ UD明朝 Medium",
+      "CanonicalFontName": "BIZ UD明朝",
+      "CanonicalFontWeight": "Medium",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "BIZ UD明朝 Medium",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "BIZ UDP明朝 Medium",
+      "CanonicalFontName": "BIZ UDP明朝",
+      "CanonicalFontWeight": "Medium",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "BIZ UDP明朝 Medium",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "メイリオ",
+      "CanonicalFontName": "メイリオ",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "メイリオ",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Meiryo UI",
+      "CanonicalFontName": "Meiryo UI",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Meiryo UI",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "ＭＳ 明朝",
+      "CanonicalFontName": "ＭＳ 明朝",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "ＭＳ 明朝",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "ＭＳ Ｐ明朝",
+      "CanonicalFontName": "ＭＳ Ｐ明朝",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "ＭＳ Ｐ明朝",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 N-B",
+      "CanonicalFontName": "UD デジタル 教科書体 N-B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 N-B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 NP-B",
+      "CanonicalFontName": "UD デジタル 教科書体 NP-B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 NP-B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 NK-B",
+      "CanonicalFontName": "UD デジタル 教科書体 NK-B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 NK-B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 N-R",
+      "CanonicalFontName": "UD デジタル 教科書体 N-R",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 N-R",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 NP-R",
+      "CanonicalFontName": "UD デジタル 教科書体 NP-R",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 NP-R",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "UD デジタル 教科書体 NK-R",
+      "CanonicalFontName": "UD デジタル 教科書体 NK-R",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "UD デジタル 教科書体 NK-R",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游明朝 Light",
+      "CanonicalFontName": "游明朝",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游明朝 Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游明朝",
+      "CanonicalFontName": "游明朝",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游明朝",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "游明朝 Demibold",
+      "CanonicalFontName": "游明朝",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "游明朝 Demibold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HoloLens MDL2 Assets",
+      "CanonicalFontName": "HoloLens MDL2 Assets",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HoloLens MDL2 Assets",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "OCRB",
+      "CanonicalFontName": "OCRB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "ExtraExpanded",
+      "ExoFontName": "OCRB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG行書体",
+      "CanonicalFontName": "HG行書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG行書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP行書体",
+      "CanonicalFontName": "HGP行書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP行書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS行書体",
+      "CanonicalFontName": "HGS行書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS行書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGｺﾞｼｯｸM",
+      "CanonicalFontName": "HGｺﾞｼｯｸM",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGｺﾞｼｯｸM",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGPｺﾞｼｯｸM",
+      "CanonicalFontName": "HGPｺﾞｼｯｸM",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGPｺﾞｼｯｸM",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGSｺﾞｼｯｸM",
+      "CanonicalFontName": "HGSｺﾞｼｯｸM",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGSｺﾞｼｯｸM",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG教科書体",
+      "CanonicalFontName": "HG教科書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG教科書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP教科書体",
+      "CanonicalFontName": "HGP教科書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP教科書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS教科書体",
+      "CanonicalFontName": "HGS教科書体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS教科書体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG明朝B",
+      "CanonicalFontName": "HG明朝B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG明朝B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP明朝B",
+      "CanonicalFontName": "HGP明朝B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP明朝B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS明朝B",
+      "CanonicalFontName": "HGS明朝B",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS明朝B",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG明朝E",
+      "CanonicalFontName": "HG明朝E",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG明朝E",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP明朝E",
+      "CanonicalFontName": "HGP明朝E",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP明朝E",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS明朝E",
+      "CanonicalFontName": "HGS明朝E",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS明朝E",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontName": "HG創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG創英ﾌﾟﾚｾﾞﾝｽEB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontName": "HGP創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP創英ﾌﾟﾚｾﾞﾝｽEB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontName": "HGS創英ﾌﾟﾚｾﾞﾝｽEB",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS創英ﾌﾟﾚｾﾞﾝｽEB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG正楷書体-PRO",
+      "CanonicalFontName": "HG正楷書体-PRO",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG正楷書体-PRO",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontName": "HG創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG創英角ﾎﾟｯﾌﾟ体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontName": "HGP創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP創英角ﾎﾟｯﾌﾟ体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontName": "HGS創英角ﾎﾟｯﾌﾟ体",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS創英角ﾎﾟｯﾌﾟ体",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG創英角ｺﾞｼｯｸUB",
+      "CanonicalFontName": "HG創英角ｺﾞｼｯｸUB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG創英角ｺﾞｼｯｸUB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGP創英角ｺﾞｼｯｸUB",
+      "CanonicalFontName": "HGP創英角ｺﾞｼｯｸUB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGP創英角ｺﾞｼｯｸUB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGS創英角ｺﾞｼｯｸUB",
+      "CanonicalFontName": "HGS創英角ｺﾞｼｯｸUB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGS創英角ｺﾞｼｯｸUB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HG丸ｺﾞｼｯｸM-PRO",
+      "CanonicalFontName": "HG丸ｺﾞｼｯｸM-PRO",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HG丸ｺﾞｼｯｸM-PRO",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGｺﾞｼｯｸE",
+      "CanonicalFontName": "HGｺﾞｼｯｸE",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGｺﾞｼｯｸE",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGPｺﾞｼｯｸE",
+      "CanonicalFontName": "HGPｺﾞｼｯｸE",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGPｺﾞｼｯｸE",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "HGSｺﾞｼｯｸE",
+      "CanonicalFontName": "HGSｺﾞｼｯｸE",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "HGSｺﾞｼｯｸE",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Century",
+      "CanonicalFontName": "Century",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Century",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Leelawadee",
+      "CanonicalFontName": "Leelawadee",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Leelawadee",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Microsoft Uighur",
+      "CanonicalFontName": "Microsoft Uighur",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Microsoft Uighur",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Wingdings 2",
+      "CanonicalFontName": "Wingdings 2",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Wingdings 2",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Wingdings 3",
+      "CanonicalFontName": "Wingdings 3",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Wingdings 3",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tempus Sans ITC",
+      "CanonicalFontName": "Tempus Sans ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Tempus Sans ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Pristina",
+      "CanonicalFontName": "Pristina",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Pristina",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Papyrus",
+      "CanonicalFontName": "Papyrus",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Papyrus",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Mistral",
+      "CanonicalFontName": "Mistral",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Mistral",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Handwriting",
+      "CanonicalFontName": "Lucida Handwriting",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Handwriting",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Kristen ITC",
+      "CanonicalFontName": "Kristen ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Kristen ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Juice ITC",
+      "CanonicalFontName": "Juice ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Juice ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "French Script MT",
+      "CanonicalFontName": "French Script MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "French Script MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Freestyle Script",
+      "CanonicalFontName": "Freestyle Script",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Freestyle Script",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bradley Hand ITC",
+      "CanonicalFontName": "Bradley Hand ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bradley Hand ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MS Outlook",
+      "CanonicalFontName": "MS Outlook",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MS Outlook",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Book Antiqua",
+      "CanonicalFontName": "Book Antiqua",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Book Antiqua",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Garamond",
+      "CanonicalFontName": "Garamond",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Garamond",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Monotype Corsiva",
+      "CanonicalFontName": "Monotype Corsiva",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Monotype Corsiva",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Century Gothic",
+      "CanonicalFontName": "Century Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Century Gothic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Algerian",
+      "CanonicalFontName": "Algerian",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "ExtraCondensed",
+      "ExoFontName": "Algerian",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Baskerville Old Face",
+      "CanonicalFontName": "Baskerville Old Face",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Baskerville Old Face",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bauhaus 93",
+      "CanonicalFontName": "Bauhaus 93",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bauhaus 93",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bell MT",
+      "CanonicalFontName": "Bell MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bell MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Berlin Sans FB",
+      "CanonicalFontName": "Berlin Sans FB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Berlin Sans FB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Berlin Sans FB Demi",
+      "CanonicalFontName": "Berlin Sans FB",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Berlin Sans FB Demi",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bernard MT Condensed",
+      "CanonicalFontName": "Bernard MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bernard MT Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bodoni MT Poster Compressed",
+      "CanonicalFontName": "Bodoni MT Poster",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "ExtraCondensed",
+      "ExoFontName": "Bodoni MT Poster Compressed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Britannic Bold",
+      "CanonicalFontName": "Britannic",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Britannic Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Broadway",
+      "CanonicalFontName": "Broadway",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Broadway",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Brush Script MT",
+      "CanonicalFontName": "Brush Script MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Brush Script MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Californian FB",
+      "CanonicalFontName": "Californian FB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Californian FB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Centaur",
+      "CanonicalFontName": "Centaur",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Centaur",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Chiller",
+      "CanonicalFontName": "Chiller",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Chiller",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Colonna MT",
+      "CanonicalFontName": "Colonna MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Colonna MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Cooper Black",
+      "CanonicalFontName": "Cooper",
+      "CanonicalFontWeight": "Heavy",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Cooper Black",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Footlight MT Light",
+      "CanonicalFontName": "Footlight MT",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Footlight MT Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Harlow Solid Italic",
+      "CanonicalFontName": "Harlow Solid",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Harlow Solid Italic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Harrington",
+      "CanonicalFontName": "Harrington",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Harrington",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "High Tower Text",
+      "CanonicalFontName": "High Tower Text",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "High Tower Text",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Jokerman",
+      "CanonicalFontName": "Jokerman",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Jokerman",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Kunstler Script",
+      "CanonicalFontName": "Kunstler Script",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Kunstler Script",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Bright",
+      "CanonicalFontName": "Lucida Bright",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Bright",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Calligraphy",
+      "CanonicalFontName": "Lucida Calligraphy",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Calligraphy",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Fax",
+      "CanonicalFontName": "Lucida Fax",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Fax",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Magneto",
+      "CanonicalFontName": "Magneto",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Magneto",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Matura MT Script Capitals",
+      "CanonicalFontName": "Matura MT Script Capitals",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Matura MT Script Capitals",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Modern No. 20",
+      "CanonicalFontName": "Modern No. 20",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Modern No. 20",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Niagara Engraved",
+      "CanonicalFontName": "Niagara Engraved",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Niagara Engraved",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Niagara Solid",
+      "CanonicalFontName": "Niagara Solid",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Niagara Solid",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Old English Text MT",
+      "CanonicalFontName": "Old English Text MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Old English Text MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Onyx",
+      "CanonicalFontName": "Onyx",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Onyx",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Parchment",
+      "CanonicalFontName": "Parchment",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Parchment",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Playbill",
+      "CanonicalFontName": "Playbill",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "UltraCondensed",
+      "ExoFontName": "Playbill",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Poor Richard",
+      "CanonicalFontName": "Poor Richard",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Poor Richard",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Ravie",
+      "CanonicalFontName": "Ravie",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Ravie",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Informal Roman",
+      "CanonicalFontName": "Informal Roman",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Informal Roman",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Showcard Gothic",
+      "CanonicalFontName": "Showcard Gothic",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Showcard Gothic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Snap ITC",
+      "CanonicalFontName": "Snap ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Snap ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Stencil",
+      "CanonicalFontName": "Stencil",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Stencil",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Viner Hand ITC",
+      "CanonicalFontName": "Viner Hand ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Viner Hand ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Vivaldi",
+      "CanonicalFontName": "Vivaldi",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Vivaldi",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Vladimir Script",
+      "CanonicalFontName": "Vladimir Script",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Vladimir Script",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Wide Latin",
+      "CanonicalFontName": "Wide Latin",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "UltraExpanded",
+      "ExoFontName": "Wide Latin",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tw Cen MT",
+      "CanonicalFontName": "Tw Cen MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Tw Cen MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tw Cen MT Condensed",
+      "CanonicalFontName": "Tw Cen MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Tw Cen MT Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tw Cen MT Condensed Extra Bold",
+      "CanonicalFontName": "Tw Cen MT",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Tw Cen MT Condensed Extra Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Script MT Bold",
+      "CanonicalFontName": "Script MT",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Script MT Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Rockwell",
+      "CanonicalFontName": "Rockwell",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Rockwell",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Rockwell Condensed",
+      "CanonicalFontName": "Rockwell",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Rockwell Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Rockwell Extra Bold",
+      "CanonicalFontName": "Rockwell",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Rockwell Extra Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Rage Italic",
+      "CanonicalFontName": "Rage",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Rage Italic",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Perpetua Titling MT",
+      "CanonicalFontName": "Perpetua Titling MT",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Perpetua Titling MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Perpetua",
+      "CanonicalFontName": "Perpetua",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Perpetua",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Palace Script MT",
+      "CanonicalFontName": "Palace Script MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Italic",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Palace Script MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "OCR A Extended",
+      "CanonicalFontName": "OCR A",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Expanded",
+      "ExoFontName": "OCR A Extended",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Maiandra GD",
+      "CanonicalFontName": "Maiandra GD",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Maiandra GD",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Sans Typewriter",
+      "CanonicalFontName": "Lucida Sans Typewriter",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiCondensed",
+      "ExoFontName": "Lucida Sans Typewriter",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Lucida Sans",
+      "CanonicalFontName": "Lucida Sans",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Lucida Sans",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Imprint MT Shadow",
+      "CanonicalFontName": "Imprint MT Shadow",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Imprint MT Shadow",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Haettenschweiler",
+      "CanonicalFontName": "Haettenschweiler",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Haettenschweiler",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Goudy Stout",
+      "CanonicalFontName": "Goudy Stout",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Goudy Stout",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Goudy Old Style",
+      "CanonicalFontName": "Goudy Old Style",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Goudy Old Style",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gloucester MT Extra Condensed",
+      "CanonicalFontName": "Gloucester MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "ExtraCondensed",
+      "ExoFontName": "Gloucester MT Extra Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gill Sans Ultra Bold",
+      "CanonicalFontName": "Gill Sans",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Gill Sans Ultra Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gill Sans Ultra Bold Condensed",
+      "CanonicalFontName": "Gill Sans",
+      "CanonicalFontWeight": "UltraBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Gill Sans Ultra Bold Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gill Sans MT",
+      "CanonicalFontName": "Gill Sans MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Gill Sans MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gill Sans MT Condensed",
+      "CanonicalFontName": "Gill Sans MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Gill Sans MT Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gill Sans MT Ext Condensed Bold",
+      "CanonicalFontName": "Gill Sans MT",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "ExtraCondensed",
+      "ExoFontName": "Gill Sans MT Ext Condensed Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Gigi",
+      "CanonicalFontName": "Gigi",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Gigi",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Franklin Gothic Book",
+      "CanonicalFontName": "Franklin Gothic Book",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Franklin Gothic Book",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Forte",
+      "CanonicalFontName": "Forte",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Forte",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Felix Titling",
+      "CanonicalFontName": "Felix Titling",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Felix Titling",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Eras Light ITC",
+      "CanonicalFontName": "Eras ITC",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Eras Light ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Eras Medium ITC",
+      "CanonicalFontName": "Eras ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Eras Medium ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Eras Demi ITC",
+      "CanonicalFontName": "Eras ITC",
+      "CanonicalFontWeight": "DemiBold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Eras Demi ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Eras Bold ITC",
+      "CanonicalFontName": "Eras ITC",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Eras Bold ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Engravers MT",
+      "CanonicalFontName": "Engravers MT",
+      "CanonicalFontWeight": "Medium",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Expanded",
+      "ExoFontName": "Engravers MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Elephant",
+      "CanonicalFontName": "Elephant",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Elephant",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Edwardian Script ITC",
+      "CanonicalFontName": "Edwardian Script ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "SemiExpanded",
+      "ExoFontName": "Edwardian Script ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Curlz MT",
+      "CanonicalFontName": "Curlz MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Curlz MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Copperplate Gothic Light",
+      "CanonicalFontName": "Copperplate Gothic",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Copperplate Gothic Light",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Copperplate Gothic Bold",
+      "CanonicalFontName": "Copperplate Gothic",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Copperplate Gothic Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Century Schoolbook",
+      "CanonicalFontName": "Century Schoolbook",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Century Schoolbook",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Castellar",
+      "CanonicalFontName": "Castellar",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Castellar",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Calisto MT",
+      "CanonicalFontName": "Calisto MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Calisto MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bookman Old Style",
+      "CanonicalFontName": "Bookman Old Style",
+      "CanonicalFontWeight": "Light",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bookman Old Style",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bodoni MT",
+      "CanonicalFontName": "Bodoni MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bodoni MT",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bodoni MT Condensed",
+      "CanonicalFontName": "Bodoni MT",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Bodoni MT Condensed",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bodoni MT Black",
+      "CanonicalFontName": "Bodoni MT",
+      "CanonicalFontWeight": "Heavy",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bodoni MT Black",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Blackadder ITC",
+      "CanonicalFontName": "Blackadder ITC",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Blackadder ITC",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Arial Rounded MT Bold",
+      "CanonicalFontName": "Arial Rounded MT",
+      "CanonicalFontWeight": "Bold",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Arial Rounded MT Bold",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Agency FB",
+      "CanonicalFontName": "Agency FB",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Condensed",
+      "ExoFontName": "Agency FB",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Bookshelf Symbol 7",
+      "CanonicalFontName": "Bookshelf Symbol 7",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Bookshelf Symbol 7",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MS Reference Sans Serif",
+      "CanonicalFontName": "MS Reference Sans Serif",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MS Reference Sans Serif",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MS Reference Specialty",
+      "CanonicalFontName": "MS Reference Specialty",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MS Reference Specialty",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "MT Extra",
+      "CanonicalFontName": "MT Extra",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "MT Extra",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Tera Special",
+      "CanonicalFontName": "Tera Special",
+      "CanonicalFontWeight": "Normal",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Tera Special",
+      "IsFavorite": false
+    },
+    {
+      "FontName": "Marlett",
+      "CanonicalFontName": "Marlett",
+      "CanonicalFontWeight": "Medium",
+      "CanonicalFontStyle": "Normal",
+      "CanonicalFontStretch": "Normal",
+      "ExoFontName": "Marlett",
+      "IsFavorite": false
+    }
+  ],
+  "CustomFonts": []
+}

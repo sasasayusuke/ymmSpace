@@ -1,0 +1,7 @@
+﻿{
+  "CoreType": "IME",
+  "MeCabDirectory": "",
+  "IsLessSeparation": true,
+  "MeCabUniDicDirectory": "unidic",
+  "MeCabIPADicDirectory": "ipadic"
+}

@@ -1,0 +1,66 @@
+﻿{
+  "LayerSettings": {
+    "Items": [
+      {
+        "Layer": 0,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 2,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 7,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 14,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 13,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 12,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 9,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 6,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 3,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 1,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      }
+    ]
+  }
+}

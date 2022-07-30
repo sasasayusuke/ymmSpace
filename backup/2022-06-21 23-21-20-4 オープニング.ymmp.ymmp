@@ -1,0 +1,871 @@
+﻿{
+  "FilePath": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\user\\backup\\2022-06-21 23-21-20-4 オープニング.ymmp.ymmp",
+  "Timeline": {
+    "VideoInfo": {
+      "FPS": 60,
+      "Hz": 48000,
+      "Width": 2560,
+      "Height": 1440
+    },
+    "Items": [
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系\\男\\guruguru_megamawaru_man.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 28.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutZoomEffect, YukkuriMovieMaker",
+            "Label": "拡大しながら退場",
+            "Value": 143.8,
+            "X": 247.0,
+            "Y": 633.0,
+            "IsInEffect": false,
+            "IsOutEffect": true,
+            "EffectTimeSeconds": 2.12,
+            "EasingType": "Linear",
+            "EasingMode": "Out",
+            "IsEnabled": true
+          },
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutTransitionEffect, YukkuriMovieMaker",
+            "Label": "場面切り替え",
+            "File": "C:\\Users\\Y-Sasaki\\Desktop\\videoEditor\\ymm\\Resources\\Transition\\爆発.png",
+            "Tolerance": {
+              "From": 3.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsInEffect": true,
+            "IsReversedInEffect": false,
+            "IsOutEffect": false,
+            "IsReversedOutEffect": false,
+            "EffectTimeSeconds": 1.18,
+            "KeepAspect": false,
+            "IsEnabled": true
+          },
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.RandomRotateEffect, YukkuriMovieMaker",
+            "Label": "ランダム回転 X0°, Y0°, Z30°, 0.13秒",
+            "X": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Y": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Z": {
+              "From": 30.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Span": {
+              "From": 0.13,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 59,
+        "Layer": 8,
+        "Length": 76,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00.0833325",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系\\男\\sick_kizetsu.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 40.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 55.6,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutMosaicEffect, YukkuriMovieMaker",
+            "Label": "モザイクを解除しながら登場",
+            "Value": 500.0,
+            "IsInEffect": true,
+            "IsOutEffect": false,
+            "EffectTimeSeconds": 2.0,
+            "EasingType": "Expo",
+            "EasingMode": "Out",
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 118,
+        "Layer": 4,
+        "Length": 161,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00.0333332",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\00_オープニング\\busy_man_edit.png",
+        "X": {
+          "From": 175.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 130.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 7,
+        "Length": 128,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": true,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\00_オープニング\\busy_man.png",
+        "X": {
+          "From": 176.71189880371094,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 147.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.RandomRotateEffect, YukkuriMovieMaker",
+            "Label": "ランダム回転 X36°, Y63°, Z16°, 0.06秒",
+            "X": {
+              "From": 36.2,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Y": {
+              "From": 62.7,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Z": {
+              "From": 16.5,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Span": {
+              "From": 0.06,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsEnabled": true
+          },
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.RepeatMoveEffect, YukkuriMovieMaker",
+            "Label": "反復移動 X-273px, Y0px, 0.65秒",
+            "X": {
+              "From": -273.3,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Y": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Span": {
+              "From": 0.65,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "EasingType": "Sine",
+            "EasingMode": "InOut",
+            "IsCentering": true,
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 6,
+        "Length": 128,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\00_オープニング\\22715516.jpg",
+        "X": {
+          "From": 57.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -451.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 142.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutTransitionEffect, YukkuriMovieMaker",
+            "Label": "場面切り替え",
+            "File": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\translib2\\細かいひし形(左上から右下へ).png",
+            "Tolerance": {
+              "From": 6.7,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsInEffect": true,
+            "IsReversedInEffect": false,
+            "IsOutEffect": false,
+            "IsReversedOutEffect": false,
+            "EffectTimeSeconds": 1.81,
+            "KeepAspect": true,
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 75,
+        "Layer": 2,
+        "Length": 229,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.AudioItem, YukkuriMovieMaker",
+        "IsWaveformEnabled": false,
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\00_オープニング\\birdland2.mp3",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 0,
+        "Length": 304,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+        "IsWaveformEnabled": false,
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\00_オープニング\\無題.mp4",
+        "Volume": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:02.5833333",
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "X": {
+          "From": -93.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -694.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 160.6,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 1,
+        "Length": 304,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系\\女\\shinpai_haha.png",
+        "X": {
+          "From": -495.80157470703125,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 127.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutMoveFromOutsideFrameEffect, YukkuriMovieMaker",
+            "Label": "画面外から登場退場",
+            "Value": "Left",
+            "IsInEffect": true,
+            "IsOutEffect": true,
+            "EffectTimeSeconds": 0.3,
+            "EasingType": "Expo",
+            "EasingMode": "Out",
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 232,
+        "Layer": 7,
+        "Length": 47,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系\\女\\shinpai_haha.png",
+        "X": {
+          "From": -884.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 469.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.InOutMoveFromOutsideFrameEffect, YukkuriMovieMaker",
+            "Label": "画面外から登場退場",
+            "Value": "Left",
+            "IsInEffect": true,
+            "IsOutEffect": true,
+            "EffectTimeSeconds": 0.3,
+            "EasingType": "Expo",
+            "EasingMode": "Out",
+            "IsEnabled": true
+          }
+        ],
+        "Group": 0,
+        "Frame": 150,
+        "Layer": 7,
+        "Length": 82,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      }
+    ],
+    "LayerSettings": {
+      "Items": [
+        {
+          "Layer": 1,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 5,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 10,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 9,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 8,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 20,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 23,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 21,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 24,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 28,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 30,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 27,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 26,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 25,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 32,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 35,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 37,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 36,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 40,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 41,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 48,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 47,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 51,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 49,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 44,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 42,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 39,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 38,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 34,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 33,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 31,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 17,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 16,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 15,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 14,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 12,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 13,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 11,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 6,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 3,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 0,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        }
+      ]
+    },
+    "CurrentFrame": 267,
+    "Length": 304,
+    "MaxLayer": 8
+  },
+  "Characters": []
+}

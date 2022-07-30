@@ -1,0 +1,456 @@
+﻿{
+  "Groups": {
+    "None": {
+      "FileGroupType": "None",
+      "FileType": "None",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "VideoItem": {
+      "FileGroupType": "VideoItem",
+      "FileType": "動画",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\sharespace",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\PXL_20220517_125500408.mp4",
+          "Time": "2022-05-18T01:03:02.3496933+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "AudioItem": {
+      "FileGroupType": "AudioItem",
+      "FileType": "音声",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音\\ちゃんちゃん♪1.mp3",
+          "Time": "2022-05-28T19:36:41.3134996+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音\\打撃\\Hit06-mp3\\Hit06-6.mp3",
+          "Time": "2022-05-28T19:34:51.8975138+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\02_BGM\\おなじみの風景.mp3",
+          "Time": "2022-05-28T19:04:40.9622328+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\02_BGM\\ゆかいな日常.mp3",
+          "Time": "2022-05-28T19:03:51.1539119+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音\\木魚ポク・ポク・ポク.mp3",
+          "Time": "2022-05-28T18:59:58.6460455+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "ImageItem": {
+      "FileGroupType": "ImageItem",
+      "FileType": "画像",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\food_chigiri_pan.png",
+          "Time": "2022-05-28T19:40:11.0186717+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\istockphoto-487736756-612x612.jpg",
+          "Time": "2022-05-28T19:38:30.7029545+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\04_人系\\じじばば.png",
+          "Time": "2022-05-28T19:29:17.8394187+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\07_動物・昆虫\\ロボット掃除機にのる猫.png",
+          "Time": "2022-05-28T19:11:24.7170383+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\05_建物・部屋・場所・国・自然\\和室_1.jpg",
+          "Time": "2022-05-28T19:05:23.09236+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\集中線青トーン.png",
+          "Time": "2022-05-15T19:03:29.2373979+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\集中線.png",
+          "Time": "2022-05-15T19:02:39.70597+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\character_tenshi_angel.png",
+          "Time": "2022-05-15T00:10:56.5298541+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\鬼瓦.jpg",
+          "Time": "2022-05-14T23:38:21.0563422+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\honoo_hi_fire.png",
+          "Time": "2022-05-14T23:26:59.2479435+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\yuusya_game.png",
+          "Time": "2022-05-14T23:26:04.7769696+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\game_yuusya_woman.png",
+          "Time": "2022-05-14T23:26:00.6921019+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\1625463417_0d40a5e4a645fc6b96e767d64ac0878e.jpg",
+          "Time": "2022-05-14T23:21:43.1370577+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Downloads\\img02.jpg",
+          "Time": "2022-05-08T18:30:45.3686391+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\Screenshot 2022-05-05 075257.png",
+          "Time": "2022-05-05T19:33:32.4538761+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\jinkou_nihon.png",
+          "Time": "2022-05-05T19:25:13.5113395+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\00_素材\\pose_atama_kakaeru_man.png",
+          "Time": "2022-05-05T19:24:49.2553034+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "Project": {
+      "FileGroupType": "Project",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2ch_space",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\999_バックアップ\\裏ｓ中.ymmp",
+          "Time": "2022-05-22T13:49:56.2866126+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\笹→信_依頼\\うらS中編.ymmp",
+          "Time": "2022-05-21T13:09:44.7403846+09:00"
+        },
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\product\\github\\ymmTool\\format\\うらSく.ymmp",
+          "Time": "2022-05-18T00:27:15.2388826+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "MP4": {
+      "FileGroupType": "MP4",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space",
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Exo": {
+      "FileGroupType": "Exo",
+      "FileType": "None",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Transition": {
+      "FileGroupType": "Transition",
+      "FileType": "画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "TachieParts": {
+      "FileGroupType": "TachieParts",
+      "FileType": "動画, 画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Texture": {
+      "FileGroupType": "Texture",
+      "FileType": "動画, 画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    }
+  },
+  "FileExtensions": [
+    {
+      "FileType": "動画",
+      "Extention": "mp4"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "avi"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "wmv"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3g2"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gp"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gp2"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gpp"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m4v"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mov"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "qt"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m2ts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m2t"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "ts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mkv"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mpg"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mpeg"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "webm"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "gif"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "webp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mp4"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "avi"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wmv"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3g2"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gp2"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gpp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m4v"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mov"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "qt"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m2ts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m2t"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "ts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mkv"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mpg"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mpeg"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "webm"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mp3"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wav"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wma"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m4a"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mka"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "aac"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "adts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "flac"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "png"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpg"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpeg"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpe"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jfif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "bmp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dib"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "gif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "ico"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "tiff"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "tif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "hdp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dds"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dng"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "heic"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "heif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "avif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jxr"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "wdp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "webp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "psd"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "psb"
+    }
+  ]
+}

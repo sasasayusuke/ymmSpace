@@ -1,0 +1,18 @@
+﻿{
+  "LayerSettings": {
+    "Items": [
+      {
+        "Layer": 4,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 0,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      }
+    ]
+  }
+}

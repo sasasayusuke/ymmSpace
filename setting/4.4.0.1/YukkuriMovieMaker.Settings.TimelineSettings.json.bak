@@ -1,0 +1,150 @@
+﻿{
+  "LayerSettings": {
+    "Items": [
+      {
+        "Layer": 2,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 5,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 8,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 11,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 13,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 12,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 16,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 17,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 24,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 23,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 27,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 25,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 20,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 18,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 15,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 14,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 10,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 9,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 7,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 6,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 4,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 3,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 1,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      },
+      {
+        "Layer": 0,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false
+      }
+    ]
+  }
+}

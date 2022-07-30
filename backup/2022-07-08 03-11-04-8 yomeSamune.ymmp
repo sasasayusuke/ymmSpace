@@ -1,0 +1,436 @@
+﻿{
+  "FilePath": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\user\\backup\\2022-07-08 03-11-04-8 yomeSamune.ymmp",
+  "Timeline": {
+    "VideoInfo": {
+      "FPS": 60,
+      "Hz": 48000,
+      "Width": 1920,
+      "Height": 1080
+    },
+    "Items": [
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\sharespace\\無題 2022-07-08 02-33-15.jpg",
+        "X": {
+          "From": 42.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -25.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 82.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 156.2,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 0,
+        "Length": 300,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\99_その他\\家電・携帯\\voice_ic_recorder.png",
+        "X": {
+          "From": 41.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 391.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 92.1,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 75.8,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": -71.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 136,
+        "Layer": 1,
+        "Length": 300,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\10_線・集中線\\e1021_1.png",
+        "X": {
+          "From": 3091.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -522.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 67.7,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 716.8000000000001,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Luminosity",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.FillBackgroundEffect, YukkuriMovieMaker",
+            "Label": "背景塗りつぶし #000000FF",
+            "Color": "#FF000000",
+            "Opacity": {
+              "From": 100.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Top": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Bottom": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Left": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "Right": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsEnabled": false
+          },
+          {
+            "$type": "YukkuriMovieMaker.Project.Effects.OutlineEffect, YukkuriMovieMaker",
+            "Label": "縁取り #E00606, 3px",
+            "StrokeThickness": {
+              "From": 3.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "StrokeColor": "#FFE00606",
+            "Blur": {
+              "From": 0.0,
+              "To": 0.0,
+              "AnimationType": "なし",
+              "Span": 0.0
+            },
+            "IsEnabled": false
+          }
+        ],
+        "Group": 0,
+        "Frame": 175,
+        "Layer": 6,
+        "Length": 300,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      }
+    ],
+    "LayerSettings": {
+      "Items": [
+        {
+          "Layer": 3,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 12,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 15,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 13,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 16,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 20,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 22,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 19,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 18,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 17,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 24,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 27,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 29,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 28,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 32,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 33,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 40,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 39,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 43,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 41,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 36,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 34,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 31,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 30,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 26,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 25,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 23,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 9,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 8,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 7,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 6,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 2,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 4,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 5,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 1,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        },
+        {
+          "Layer": 0,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": false
+        }
+      ]
+    },
+    "CurrentFrame": 255,
+    "Length": 475,
+    "MaxLayer": 6
+  },
+  "Characters": []
+}

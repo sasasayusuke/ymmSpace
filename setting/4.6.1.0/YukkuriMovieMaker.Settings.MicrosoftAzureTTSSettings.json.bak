@@ -1,0 +1,10 @@
+﻿{
+  "Key": null,
+  "Region": null,
+  "Speakers": [
+    "ja-JP-NanamiNeural",
+    "ja-JP-KeitaNeural",
+    "en-US-AmberNeural",
+    "en-US-BrandonNeural"
+  ]
+}

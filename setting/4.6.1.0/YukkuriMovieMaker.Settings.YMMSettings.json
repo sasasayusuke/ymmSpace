@@ -1,0 +1,255 @@
+﻿{
+  "LayerHeight": 31,
+  "TimelineZoom": 93.5749768539872,
+  "Volume": 50.0,
+  "PlaybackRate": 3,
+  "SnapTargetLayerDistance": 3,
+  "SnapTargetPixelDistance": 5,
+  "SnapTargetPixelDistanceForSeek": 3,
+  "TimelineHeight": 300.0,
+  "EditorWidth": 350.0,
+  "MainWindowState": {
+    "X": 75.0,
+    "Y": -7.333333333333333,
+    "Width": 1936.0,
+    "Height": 1056.0,
+    "IsMaximized": true
+  },
+  "AreaLayouts": {
+    "Preview": {
+      "Order": 2,
+      "Dock": "Top",
+      "Width": 480.0,
+      "Height": 296.0,
+      "IsWindowed": false,
+      "WindowState": {
+        "X": "NaN",
+        "Y": "NaN",
+        "Width": 480.0,
+        "Height": 324.0,
+        "IsMaximized": false
+      }
+    },
+    "Timeline": {
+      "Order": 1,
+      "Dock": "Bottom",
+      "Width": 300.0,
+      "Height": 572.6666666666665,
+      "IsWindowed": false,
+      "WindowState": {
+        "X": "NaN",
+        "Y": "NaN",
+        "Width": 700.0,
+        "Height": 300.0,
+        "IsMaximized": false
+      }
+    },
+    "ItemEditor": {
+      "Order": 0,
+      "Dock": "Right",
+      "Width": 335.33333333333326,
+      "Height": 300.0,
+      "IsWindowed": false,
+      "WindowState": {
+        "X": "NaN",
+        "Y": "NaN",
+        "Width": 300.0,
+        "Height": 600.0,
+        "IsMaximized": false
+      }
+    }
+  },
+  "ToolWindowLayouts": {
+    "Items": [
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.AboutViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.CharacterEditorViewModel",
+        "WindowState": {
+          "X": 312.66666666666663,
+          "Y": 21.333333333333332,
+          "Width": 1128.0,
+          "Height": 704.6666666666666,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.AnimationTachieManagerViewModel",
+        "WindowState": {
+          "X": 158.66666666666666,
+          "Y": 76.0,
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.FeedbackViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.ScenarioEditorViewModel",
+        "WindowState": {
+          "X": 636.6666666666666,
+          "Y": 26.0,
+          "Width": 600.0,
+          "Height": 673.3333333333333,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.UpdaterViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.SettingsViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.ResourceListViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.KanjiToYomi.UserDictionaryToolViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
+      }
+    ]
+  },
+  "AddVoiceMode": "AddAndSeek",
+  "FeedbackMailAddress": null,
+  "ZoomToolBar": {
+    "Band": 0,
+    "BandIndex": 0
+  },
+  "ItemToolBar": {
+    "Band": 0,
+    "BandIndex": 1
+  },
+  "EditToolBar": {
+    "Band": 0,
+    "BandIndex": 2
+  },
+  "ProjectToolBar": {
+    "Band": 0,
+    "BandIndex": 3
+  },
+  "FeedbackToolBar": {
+    "Band": 0,
+    "BandIndex": 4
+  },
+  "MeterIsVisible": true,
+  "ToolBarIsVisible": true,
+  "StatusBarIsVisible": true,
+  "AviUtlPath": null,
+  "DefaultVideoWidth": 1920,
+  "DefaultVideoHeight": 1080,
+  "DefaultVideoFPS": 60,
+  "DefaultVideoHz": 48000,
+  "FrameSizePresets": [
+    {
+      "Width": 3840,
+      "Height": 2160
+    },
+    {
+      "Width": 2560,
+      "Height": 1440
+    },
+    {
+      "Width": 1920,
+      "Height": 1080
+    },
+    {
+      "Width": 1280,
+      "Height": 720
+    },
+    {
+      "Width": 854,
+      "Height": 480
+    },
+    {
+      "Width": 640,
+      "Height": 360
+    }
+  ],
+  "RunAviUtlAfterExoOutput": true,
+  "IsStopButtonVisible": true,
+  "IsSeekToStartButtonVisible": true,
+  "IsSeekToEndButtonVisible": true,
+  "IsSeekToNextEditPointButtonVisible": true,
+  "IsSeekToPrevEditPointButtonVisible": true,
+  "IsSeekToNextFrameButtonVisible": true,
+  "IsSeekToPrevFrameButtonVisible": true,
+  "EditorLabelPosition": "Center",
+  "VoiceUpsamplingMode": "Default",
+  "ZoomMode": "Default",
+  "MFSourceReaderMode2": "Default",
+  "IsReconvertHatsuonOnEnter": true,
+  "ExoResamplerMode": "Default",
+  "IsAviUtlOutlineEffect": false,
+  "IsFixedFpsEnabled": false,
+  "BackupSpan": 5.0,
+  "BackupLimit2": 15,
+  "IsIMECompatibilityMode2": true,
+  "IsPlaySoundOnCreateMp4FileCompleted": true,
+  "IsPlaySoundOnCreateExoFileCompleted": true,
+  "ItemSplitSelectionMode": "RightOnly",
+  "Theme": "Windows",
+  "IsSuccessfulCompletion": true,
+  "IsYMMPAssociationChecked": false,
+  "IsProjectVoiceCacheEnabled": true,
+  "ThumbnailExtension": ".png",
+  "SelectItemOnSeekMode": "Default",
+  "DeleteItemSpaceUIVisibility": "Default",
+  "TimelineWaveformVisibility": "Default",
+  "IsThumbnailFileNameWithTimestampEnabled": true,
+  "IsUpdated": false,
+  "VersionLabel": "v4.6.1.0",
+  "Version": "4.6.1.0"
+}
