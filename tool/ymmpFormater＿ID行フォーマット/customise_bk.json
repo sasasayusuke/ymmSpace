@@ -1,0 +1,24 @@
+{
+    "Characters": [
+        "いっち"
+        , "スレ民A"
+        , "スレ民B"
+        , "スレ民C"
+        , "スレ民D"
+        , "スレ民E"
+        , "スレ民F"
+        , "DQセリフ"
+
+    ],
+    "IdDeco": {
+        "Start": 0,
+        "Length": 0,
+        "IsBold": true,
+        "IsItalic": false,
+        "Scale": 0.8,
+        "Font": "Yu Gothic UI Semibold",
+        "Foreground": "#FFDDCC",
+        "IsLineBreak": false,
+        "HasDecoration": true
+    }
+}
