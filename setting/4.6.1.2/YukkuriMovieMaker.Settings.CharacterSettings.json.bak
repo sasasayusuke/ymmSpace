@@ -6480,15 +6480,15 @@
     }
   ],
   "CurrentCharacter": {
-    "Name": "スレ民E",
-    "Color": "#FF80B3FF",
+    "Name": "スレ民A (TEST)",
+    "Color": "#FF451AFF",
     "Layer": 0,
     "Voice": {
       "API": "AquesTalk",
-      "Arg": "f2"
+      "Arg": "f1"
     },
     "Volume": {
-      "From": 100.0,
+      "From": 90.0,
       "To": 0.0,
       "AnimationType": "なし",
       "Span": 0.0
@@ -6499,12 +6499,12 @@
       "AnimationType": "なし",
       "Span": 0.0
     },
-    "PlaybackRate": 130.0,
+    "PlaybackRate": 80.0,
     "VoiceParameter": {
       "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
-      "Speed": 102
+      "Speed": 180
     },
-    "AdditionalTime": 0.5,
+    "AdditionalTime": 0.8,
     "VoiceFadeIn": 0.0,
     "VoiceFadeOut": 0.0,
     "EchoIsEnabled": false,
@@ -6515,15 +6515,15 @@
     "CustomVoiceDirectory": "",
     "CustomVoiceFileName": "",
     "IsJimakuVisible": true,
-    "IsJimakuLocked": false,
+    "IsJimakuLocked": true,
     "X": {
-      "From": -834.0,
+      "From": -808.0,
       "To": 0.0,
       "AnimationType": "なし",
       "Span": 0.0
     },
     "Y": {
-      "From": 0.0,
+      "From": 202.0,
       "To": 0.0,
       "AnimationType": "なし",
       "Span": 0.0
@@ -6551,15 +6551,15 @@
     "Blend": "Normal",
     "IsInverted": false,
     "IsAlwaysOnTop": false,
-    "Font": "メイリオ",
+    "Font": "源ノ角ゴシック JP",
     "FontSize": {
-      "From": 40.0,
+      "From": 45.0,
       "To": 1.0,
       "AnimationType": "なし",
       "Span": 0.0
     },
     "LineHeight2": {
-      "From": 125.0,
+      "From": 105.0,
       "To": 0.0,
       "AnimationType": "なし",
       "Span": 0.0
@@ -6572,8 +6572,8 @@
     },
     "DisplayInterval": 0.0,
     "BasePoint": "LeftTop",
-    "FontColor": "#FF000000",
-    "Style": "BorderLight",
+    "FontColor": "#FFFFFFFF",
+    "Style": "Normal",
     "StyleColor": "#FF000000",
     "Bold": false,
     "Italic": false,
@@ -6581,8 +6581,8 @@
     "JimakuVideoEffects": [
       {
         "$type": "YukkuriMovieMaker.Project.Effects.FillBackgroundEffect, YukkuriMovieMaker",
-        "Label": "背景塗りつぶし #FFFFFFFF",
-        "Color": "#FFFFFFFF",
+        "Label": "背景塗りつぶし #111111FF",
+        "Color": "#FF111111",
         "Opacity": {
           "From": 100.0,
           "To": 0.0,
@@ -6590,13 +6590,13 @@
           "Span": 0.0
         },
         "Top": {
-          "From": 10.0,
+          "From": 0.0,
           "To": 0.0,
           "AnimationType": "なし",
           "Span": 0.0
         },
         "Bottom": {
-          "From": 40.0,
+          "From": 0.0,
           "To": 0.0,
           "AnimationType": "なし",
           "Span": 0.0
@@ -6608,7 +6608,7 @@
           "Span": 0.0
         },
         "Right": {
-          "From": 400.0,
+          "From": 0.0,
           "To": 0.0,
           "AnimationType": "なし",
           "Span": 0.0
@@ -6617,8 +6617,8 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Effects.FrameLineEffect, YukkuriMovieMaker",
-        "Label": "枠線 全体7px, #4AFF1AFF",
-        "Color": "#FF4AFF1A",
+        "Label": "枠線 全体7px, #1AFFFCFF",
+        "Color": "#FF1AFFFC",
         "Opacity": {
           "From": 100.0,
           "To": 0.0,
@@ -6703,6 +6703,17 @@
           "Span": 0.0
         },
         "Color": "#FF000000",
+        "IsEnabled": true
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Effects.InOutMoveFromOutsideFrameEffect, YukkuriMovieMaker",
+        "Label": "画面外から登場退場",
+        "Value": "Bottom",
+        "IsInEffect": true,
+        "IsOutEffect": true,
+        "EffectTimeSeconds": 0.2,
+        "EasingType": "Expo",
+        "EasingMode": "Out",
         "IsEnabled": true
       }
     ],

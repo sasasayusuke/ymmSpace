@@ -2,9 +2,12 @@ import pathlib
 import json
 import shutil
 import datetime
+import os
+
 
 customisePath = "customise.json"
 formatPath = "format"
+
 ymm = {}
 jsn = {}
 template = {
@@ -14,14 +17,15 @@ template = {
     "IsLineBreak": True,
     "HasDecoration": False
 }
-nl = "\r\n"
 
-with open(pathlib.Path(customisePath).absolute(), "r", encoding="utf_8") as setting:
-    jsn = json.load(setting)
-
+targetPath = '\\'.join(os.path.abspath(__file__).split('\\')[:-1])
+os.chdir(targetPath)
 
 newPath = datetime.datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 shutil.copytree(formatPath, newPath)
+
+with open(pathlib.Path(customisePath).absolute(), "r", encoding="utf_8") as setting:
+    jsn = json.load(setting)
 
 path = pathlib.Path('./' + newPath).glob('*.ymmp')
 for p in path:
@@ -30,10 +34,10 @@ for p in path:
 
     for item in ymm["Timeline"]["Items"]:
         if "CharacterName" in item.keys() and item["CharacterName"] in jsn["Characters"]:
-            sentence = item["Serif"].split(nl)
+            sentence = item["Serif"].split("\r\n")
             # 制限行, 制限列
             limitR = 5
-            limitC = 130
+            limitC = 180
             if len(sentence) <= limitR:
                 # デコレーション初期化
                 item["Decorations"] = []
@@ -62,20 +66,28 @@ for p in path:
                     # 最終行テキスト
                     elif (i == limitR - 1):
                         textLine["Start"] = length
-                        textLine["Length"] = length + len(sentence[i])
+                        textLine["Length"] = len(sentence[i]) - 1
+                        length = length + len(sentence[i]) - 1
+
+                        #textLine2 = template.copy()
+                        #textLine2["Start"] = length
+                        #textLine2["Length"] = 1
+                        #textLine2["Foreground"] = "#111111",
+
                         item["Decorations"].append(textLine)
+                        #item["Decorations"].append(textLine2)
                     else:
                         textLine["Start"] = length
+                        textLine["Length"] = len(sentence[i])
                         length = length + len(sentence[i])
-                        textLine["Length"] = length
                         newline["Start"] = length
                         item["Decorations"].append(textLine)
                         item["Decorations"].append(newline)
                         length = length + 2
-                h = item["Hatsuon"].split(nl)
+                h = item["Hatsuon"].split("\r\n")
                 h[0] = ""
-                item["Serif"] = nl.join(sentence)
-                item["Hatsuon"] = nl.join(h)
+                item["Serif"] = "\r\n".join(sentence)
+                item["Hatsuon"] = "\r\n".join(h)
                 del item["VoiceCache"]
 
     with open(p.absolute(), 'w', encoding="utf_8_sig") as outfile:

@@ -47,7 +47,7 @@
     "ItemEditor": {
       "Order": 0,
       "Dock": "Right",
-      "Width": 848.3333333333333,
+      "Width": 401.33333333333326,
       "Height": 300.0,
       "IsWindowed": false,
       "WindowState": {
@@ -241,7 +241,7 @@
   "IsPlaySoundOnCreateExoFileCompleted": true,
   "ItemSplitSelectionMode": "RightOnly",
   "Theme": "Windows",
-  "IsSuccessfulCompletion": true,
+  "IsSuccessfulCompletion": false,
   "IsYMMPAssociationChecked": false,
   "IsProjectVoiceCacheEnabled": true,
   "ThumbnailExtension": ".png",
