@@ -36,8 +36,8 @@ for p in path:
         if "CharacterName" in item.keys() and item["CharacterName"] in jsn["Characters"]:
             sentence = item["Serif"].split("\r\n")
             # 制限行, 制限列
-            limitR = 5
-            limitC = 180
+            limitR = jsn["limit"]["Row"]
+            limitC = jsn["limit"]["Column"]
             if len(sentence) <= limitR:
                 # デコレーション初期化
                 item["Decorations"] = []

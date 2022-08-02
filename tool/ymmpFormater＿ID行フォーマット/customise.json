@@ -1,9 +1,11 @@
 {
     "Characters": [
         "いっち"
-        , "スレ民A (TEST)"
-        , "スレ民B (TEST)"
-        , "スレ民C (TEST)"
+        , "スレ民A(黒)"
+        , "スレ民B(黒)"
+        , "スレ民C(黒)"
+        , "スレ民D(黒)"
+        , "いっち (確定)"
         , "DQセリフ"
 
     ],
@@ -14,8 +16,12 @@
         "IsItalic": false,
         "Scale": 0.8,
         "Font": "Yu Gothic UI Semibold",
-        "Foreground": "#FFDDCC",
+        "Foreground": "#00c900",
         "IsLineBreak": false,
         "HasDecoration": true
+    },
+    "limit": {
+        "Row": 5,
+        "Column": 120
     }
 }

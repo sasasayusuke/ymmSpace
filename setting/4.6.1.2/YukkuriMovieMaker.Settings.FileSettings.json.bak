@@ -10,33 +10,34 @@
     "VideoItem": {
       "FileGroupType": "VideoItem",
       "FileType": "動画",
-      "DialogDirectory": "C:\\Users\\t.s\\Box\\2c_space\\100_素材\\03_背景mp4・jpg",
+      "DialogDirectory": "C:\\Users\\pc\\Downloads",
       "RecentFiles": [],
       "FavoriteFiles": []
     },
     "AudioItem": {
       "FileGroupType": "AudioItem",
       "FileType": "音声",
-      "DialogDirectory": "C:\\Users\\t.s\\Box\\2c_space\\100_素材\\01_効果音",
-      "RecentFiles": [],
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\01_効果音\\ビシッとツッコミ3.mp3",
+          "Time": "2022-07-31T01:24:54.2332326+09:00"
+        }
+      ],
       "FavoriteFiles": []
     },
     "ImageItem": {
       "FileGroupType": "ImageItem",
       "FileType": "画像",
-      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\09_吹き出し",
+      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\99_その他",
       "RecentFiles": [
         {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\09_吹き出し\\e0307_1.png",
-          "Time": "2022-07-08T03:13:17.5776331+09:00"
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\99_その他\\card_joker.png",
+          "Time": "2022-07-31T01:23:35.8358018+09:00"
         },
         {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\09_吹き出し\\e0548_1.png",
-          "Time": "2022-07-08T03:11:16.0010314+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\10_線・集中線\\e1021_1.png",
-          "Time": "2022-07-08T03:01:58.0539184+09:00"
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\100_素材\\99_その他\\computer_email.png",
+          "Time": "2022-07-31T00:11:31.1381862+09:00"
         }
       ],
       "FavoriteFiles": []
@@ -44,35 +45,11 @@
     "Project": {
       "FileGroupType": "Project",
       "FileType": "None",
-      "DialogDirectory": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\ymmpPathChange\\99_format",
+      "DialogDirectory": "C:\\Users\\pc\\Box\\2c_space\\200_ツール\\ymmpFormater\\format",
       "RecentFiles": [
         {
-          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\user\\tool\\ymmpFormater＿ID行フォーマット\\2022_07_30_23_07_37\\test.ymmp",
-          "Time": "2022-07-30T23:08:37.6531034+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\user\\tool\\ymmpFormater＿ID行フォーマット\\format\\test.ymmp",
-          "Time": "2022-07-30T23:06:39.4028843+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\user\\tool\\ymmpFormater＿ID行フォーマット\\2022_07_30_22_39_47\\test.ymmp",
-          "Time": "2022-07-30T22:40:47.4541245+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\ymmpFormater\\2022_07_30_19_55_20\\test.ymmp",
-          "Time": "2022-07-30T19:55:52.9226697+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\ymmpFormater\\2022_07_30_19_54_33\\test.ymmp",
-          "Time": "2022-07-30T19:54:55.5192166+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\ymmpFormater\\2022_07_30_19_53_42\\test.ymmp",
-          "Time": "2022-07-30T19:54:10.8308812+09:00"
-        },
-        {
-          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\200_ツール\\ymmpPathChange\\99_format\\yomeSamune.ymmp",
-          "Time": "2022-07-08T03:01:18.8773547+09:00"
+          "Path": "C:\\Users\\Y-Sasaki\\Box\\2c_space\\500_依頼_笹→信\\放課後のジョーカーShort.ymmp",
+          "Time": "2022-07-31T00:05:33.1055729+09:00"
         }
       ],
       "FavoriteFiles": []
@@ -80,7 +57,7 @@
     "MP4": {
       "FileGroupType": "MP4",
       "FileType": "None",
-      "DialogDirectory": "C:\\Users\\t.s\\OneDrive\\デスクトップ",
+      "DialogDirectory": "C:\\Users\\pc\\Desktop",
       "RecentFiles": [],
       "FavoriteFiles": []
     },
@@ -94,8 +71,13 @@
     "Transition": {
       "FileGroupType": "Transition",
       "FileType": "画像",
-      "DialogDirectory": "C:\\Users\\t.s\\Box\\2c_space\\200_ツール\\translib2",
-      "RecentFiles": [],
+      "DialogDirectory": "C:\\Users\\pc\\Box\\2c_space\\200_ツール\\translib2",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\Y-Sasaki\\Desktop\\sasaki\\tool\\YukkuriMovieMaker4\\Resources\\Transition\\時計回り.png",
+          "Time": "2022-07-31T01:51:51.7864921+09:00"
+        }
+      ],
       "FavoriteFiles": []
     },
     "TachieParts": {
@@ -103,10 +85,7 @@
       "FileType": "動画, 画像",
       "DialogDirectory": null,
       "RecentFiles": [],
-      "FavoriteFiles": [
-        "C:\\Users\\t.s\\YukkuriMovieMaker4\\キャラ保管箱\\まりさ\\目\\00.png",
-        "C:\\Users\\t.s\\YukkuriMovieMaker4\\キャラ保管箱\\まりさ\\口\\00.png"
-      ]
+      "FavoriteFiles": []
     },
     "Texture": {
       "FileGroupType": "Texture",
@@ -388,10 +367,6 @@
     {
       "FileType": "画像",
       "Extention": "psb"
-    },
-    {
-      "FileType": "画像",
-      "Extention": "anm"
     }
   ]
 }

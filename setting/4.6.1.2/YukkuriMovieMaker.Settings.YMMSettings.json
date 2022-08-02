@@ -1,7 +1,7 @@
 ﻿{
-  "LayerHeight": 31,
-  "TimelineZoom": 93.5749768539872,
-  "Volume": 53.0,
+  "LayerHeight": 32,
+  "TimelineZoom": 99.18297394085624,
+  "Volume": 10.769230769230845,
   "PlaybackRate": 3,
   "SnapTargetLayerDistance": 3,
   "SnapTargetPixelDistance": 5,
@@ -9,10 +9,10 @@
   "TimelineHeight": 300.0,
   "EditorWidth": 350.0,
   "MainWindowState": {
-    "X": 75.0,
-    "Y": -7.333333333333333,
-    "Width": 1936.0,
-    "Height": 1056.0,
+    "X": -8.0,
+    "Y": 0.0,
+    "Width": 1552.0,
+    "Height": 840.0,
     "IsMaximized": true
   },
   "AreaLayouts": {
@@ -34,7 +34,7 @@
       "Order": 1,
       "Dock": "Bottom",
       "Width": 300.0,
-      "Height": 572.6666666666665,
+      "Height": 562.0,
       "IsWindowed": false,
       "WindowState": {
         "X": "NaN",
@@ -47,7 +47,7 @@
     "ItemEditor": {
       "Order": 0,
       "Dock": "Right",
-      "Width": 401.33333333333326,
+      "Width": 608.0,
       "Height": 300.0,
       "IsWindowed": false,
       "WindowState": {
@@ -75,27 +75,16 @@
       {
         "TypeName": "YukkuriMovieMaker.ViewModels.CharacterEditorViewModel",
         "WindowState": {
-          "X": 312.66666666666663,
-          "Y": 21.333333333333332,
-          "Width": 1128.0,
-          "Height": 704.6666666666666,
-          "IsMaximized": false
+          "X": -8.0,
+          "Y": -8.0,
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": true
         },
         "IsOpened": false
       },
       {
         "TypeName": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.AnimationTachieManagerViewModel",
-        "WindowState": {
-          "X": 158.66666666666666,
-          "Y": 76.0,
-          "Width": 600.0,
-          "Height": 400.0,
-          "IsMaximized": false
-        },
-        "IsOpened": false
-      },
-      {
-        "TypeName": "YukkuriMovieMaker.ViewModels.FeedbackViewModel",
         "WindowState": {
           "X": "NaN",
           "Y": "NaN",
@@ -108,19 +97,8 @@
       {
         "TypeName": "YukkuriMovieMaker.ViewModels.ScenarioEditorViewModel",
         "WindowState": {
-          "X": 636.6666666666666,
-          "Y": 26.0,
-          "Width": 600.0,
-          "Height": 673.3333333333333,
-          "IsMaximized": false
-        },
-        "IsOpened": false
-      },
-      {
-        "TypeName": "YukkuriMovieMaker.ViewModels.UpdaterViewModel",
-        "WindowState": {
-          "X": "NaN",
-          "Y": "NaN",
+          "X": 1178.0,
+          "Y": 538.0,
           "Width": 600.0,
           "Height": 400.0,
           "IsMaximized": false
@@ -129,17 +107,6 @@
       },
       {
         "TypeName": "YukkuriMovieMaker.ViewModels.SettingsViewModel",
-        "WindowState": {
-          "X": "NaN",
-          "Y": "NaN",
-          "Width": 600.0,
-          "Height": 400.0,
-          "IsMaximized": false
-        },
-        "IsOpened": false
-      },
-      {
-        "TypeName": "YukkuriMovieMaker.ViewModels.ResourceListViewModel",
         "WindowState": {
           "X": "NaN",
           "Y": "NaN",
@@ -159,10 +126,21 @@
           "IsMaximized": false
         },
         "IsOpened": false
+      },
+      {
+        "TypeName": "YukkuriMovieMaker.ViewModels.FeedbackViewModel",
+        "WindowState": {
+          "X": "NaN",
+          "Y": "NaN",
+          "Width": 600.0,
+          "Height": 400.0,
+          "IsMaximized": false
+        },
+        "IsOpened": false
       }
     ]
   },
-  "AddVoiceMode": "AddAndSeek",
+  "AddVoiceMode": "Add",
   "FeedbackMailAddress": null,
   "ZoomToolBar": {
     "Band": 0,
@@ -188,8 +166,8 @@
   "ToolBarIsVisible": true,
   "StatusBarIsVisible": true,
   "AviUtlPath": null,
-  "DefaultVideoWidth": 1920,
-  "DefaultVideoHeight": 1080,
+  "DefaultVideoWidth": 1080,
+  "DefaultVideoHeight": 1920,
   "DefaultVideoFPS": 60,
   "DefaultVideoHz": 48000,
   "FrameSizePresets": [
@@ -241,10 +219,10 @@
   "IsPlaySoundOnCreateExoFileCompleted": true,
   "ItemSplitSelectionMode": "RightOnly",
   "Theme": "Windows",
-  "IsSuccessfulCompletion": false,
+  "IsSuccessfulCompletion": true,
   "IsYMMPAssociationChecked": false,
   "IsProjectVoiceCacheEnabled": true,
-  "ThumbnailExtension": ".png",
+  "ThumbnailExtension": ".jpg",
   "SelectItemOnSeekMode": "Default",
   "DeleteItemSpaceUIVisibility": "Default",
   "TimelineWaveformVisibility": "Default",

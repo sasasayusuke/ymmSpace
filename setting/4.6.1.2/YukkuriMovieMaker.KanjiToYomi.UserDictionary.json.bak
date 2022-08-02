@@ -2,8 +2,8 @@
   "WordSets": [
     {
       "IsEnabled": false,
-      "From": null,
-      "To": null,
+      "From": "CO2",
+      "To": "しーおーつー",
       "IsRegex": false,
       "IgnoreCase": false,
       "Description": null
@@ -17,33 +17,9 @@
       "Description": null
     },
     {
-      "IsEnabled": true,
-      "From": "K男",
-      "To": "けーお",
-      "IsRegex": false,
-      "IgnoreCase": false,
-      "Description": null
-    },
-    {
-      "IsEnabled": true,
-      "From": "w",
+      "IsEnabled": false,
+      "From": null,
       "To": null,
-      "IsRegex": false,
-      "IgnoreCase": false,
-      "Description": null
-    },
-    {
-      "IsEnabled": true,
-      "From": "間男",
-      "To": "まおとこ",
-      "IsRegex": false,
-      "IgnoreCase": false,
-      "Description": null
-    },
-    {
-      "IsEnabled": true,
-      "From": "間嫁",
-      "To": "まよめ",
       "IsRegex": false,
       "IgnoreCase": false,
       "Description": null

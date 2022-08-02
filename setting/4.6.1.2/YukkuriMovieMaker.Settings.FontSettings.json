@@ -7,7 +7,7 @@
       "CanonicalFontStyle": "Normal",
       "CanonicalFontStretch": "Normal",
       "ExoFontName": "あずきフォント",
-      "IsFavorite": true
+      "IsFavorite": false
     },
     {
       "FontName": "Arial",
@@ -1006,7 +1006,7 @@
       "CanonicalFontStyle": "Normal",
       "CanonicalFontStretch": "Normal",
       "ExoFontName": "メイリオ",
-      "IsFavorite": true
+      "IsFavorite": false
     },
     {
       "FontName": "Meiryo UI",

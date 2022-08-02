@@ -55,6 +55,30 @@
       "AccessKey": "R"
     },
     {
+      "CommandType": "SelectUpItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Up",
+      "AccessKey": "None"
+    },
+    {
+      "CommandType": "SelectDownItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Down",
+      "AccessKey": "None"
+    },
+    {
+      "CommandType": "SelectLeftItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Left",
+      "AccessKey": "None"
+    },
+    {
+      "CommandType": "SelectRightItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Right",
+      "AccessKey": "None"
+    },
+    {
       "CommandType": "Group",
       "ModifierKeys": "Control",
       "Key": "G",
@@ -64,7 +88,19 @@
       "CommandType": "Ungroup",
       "ModifierKeys": "Control, Shift",
       "Key": "G",
-      "AccessKey": "None"
+      "AccessKey": "G"
+    },
+    {
+      "CommandType": "EnableWaveform",
+      "ModifierKeys": "Control",
+      "Key": "W",
+      "AccessKey": "W"
+    },
+    {
+      "CommandType": "DisableWaveform",
+      "ModifierKeys": "Control, Shift",
+      "Key": "W",
+      "AccessKey": "W"
     },
     {
       "CommandType": "SplitCurrentPosition",
@@ -515,42 +551,6 @@
       "ModifierKeys": "None",
       "Key": "None",
       "AccessKey": "None"
-    },
-    {
-      "CommandType": "SelectUpItem",
-      "ModifierKeys": "Alt, Control, Shift",
-      "Key": "Up",
-      "AccessKey": "None"
-    },
-    {
-      "CommandType": "SelectDownItem",
-      "ModifierKeys": "Alt, Control, Shift",
-      "Key": "Down",
-      "AccessKey": "None"
-    },
-    {
-      "CommandType": "SelectLeftItem",
-      "ModifierKeys": "Alt, Control, Shift",
-      "Key": "Left",
-      "AccessKey": "None"
-    },
-    {
-      "CommandType": "SelectRightItem",
-      "ModifierKeys": "Alt, Control, Shift",
-      "Key": "Right",
-      "AccessKey": "None"
-    },
-    {
-      "CommandType": "EnableWaveform",
-      "ModifierKeys": "Control",
-      "Key": "W",
-      "AccessKey": "W"
-    },
-    {
-      "CommandType": "DisableWaveform",
-      "ModifierKeys": "Control, Shift",
-      "Key": "W",
-      "AccessKey": "W"
     }
   ]
 }

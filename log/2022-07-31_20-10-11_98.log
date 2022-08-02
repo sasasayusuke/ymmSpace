@@ -1,0 +1,79 @@
+﻿ゆっくりMovieMaker v4.6.1.2
+2022/07/31 20:10:12
+Microsoft Windows 10.0.19044 / X64 Process on X64 OS
+.NET 6.0.6
+CPU : Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+GPU : Intel(R) UHD Graphics 620
+残り物理メモリ : 1,091,656 / 8,161,204KB
+残り仮想メモリ : 19,282,264 / 27,035,572KB
+残りページングファイル : 18,693,404 / 18,874,368KB
+
+------------------- 
+[2022/07/31 20:10:12.34] VOICEVOXに接続できませんでした
+System.Net.Http.HttpRequestException: 対象のコンピューターによって拒否されたため、接続できませんでした。 (127.0.0.1:50031)
+ ---> System.Net.Sockets.SocketException (10061): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at YukkuriMovieMaker.Voice.VOICEVOXAPI.GetJsonWithGetMethodAsync(String url) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Voice\VOICEVOXAPI.cs:line 123
+[2022/07/31 20:24:25.21] 動画ファイルの出力に失敗しました
+System.AggregateException: One or more errors occurred. (HRESULT: [0x8899000C], Message: [修復できる可能性があるプレゼンテーション エラーが発生しました。呼び出し元でフレーム全体の作成とレンダリングをやり直し、present を再試行する必要があります。
+])
+ ---> SharpGen.Runtime.SharpGenException: HRESULT: [0x8899000C], Message: [修復できる可能性があるプレゼンテーション エラーが発生しました。呼び出し元でフレーム全体の作成とレンダリングをやり直し、present を再試行する必要があります。
+]
+   at SharpGen.Runtime.Result.ThrowFailureException()
+   at Vortice.Direct2D1.ID2D1DeviceContext.CreateBitmapFromWicBitmap(IWICBitmapSource wicBitmapSource, Nullable`1 bitmapProperties)
+   at YukkuriMovieMaker.Plugin.FileSource.WIC.WICGifVideoSource.DrawCurrentFrame(TimeSpan time) in D:\repos\YukkuriMovieMaker\WicGifSourcePlugin\WICGifVideoSource.cs:line 255
+   at YukkuriMovieMaker.Plugin.FileSource.WIC.WICGifVideoSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\WicGifSourcePlugin\WICGifVideoSource.cs:line 320
+   at YukkuriMovieMaker.Player.Video.Items.VideoSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Player\Video\Items\VideoSource.cs:line 38
+   at YukkuriMovieMaker.Player.Video.TimelineSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Player\Video\TimelineSource.cs:line 56
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.Render(Int32 frame) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 275
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.<>c__DisplayClass13_1.<CreateFileAsync>b__3() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 144
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.WaitAllCore(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.<>c__DisplayClass13_0.<CreateFileAsync>b__1() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 184
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.CreateFileAsync(ProgressMessage progressMessage, CancellationToken cancellationToken) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 88
+   at YukkuriMovieMaker.ViewModels.MainViewModel.CreateMp4FileAsync(IVideoFileWriterPlugin plugin, String file, Timeline timeline, ProgressMessage progressMessage, CancellationToken token) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\ViewModels\MainViewModel.cs:line 2083
+[2022/07/31 20:57:22.17] 動画ファイルの出力に失敗しました
+System.AggregateException: One or more errors occurred. (HRESULT: [0x8899000C], Message: [修復できる可能性があるプレゼンテーション エラーが発生しました。呼び出し元でフレーム全体の作成とレンダリングをやり直し、present を再試行する必要があります。
+])
+ ---> SharpGen.Runtime.SharpGenException: HRESULT: [0x8899000C], Message: [修復できる可能性があるプレゼンテーション エラーが発生しました。呼び出し元でフレーム全体の作成とレンダリングをやり直し、present を再試行する必要があります。
+]
+   at SharpGen.Runtime.Result.ThrowFailureException()
+   at Vortice.Direct2D1.ID2D1DeviceContext.CreateBitmapFromWicBitmap(IWICBitmapSource wicBitmapSource, Nullable`1 bitmapProperties)
+   at YukkuriMovieMaker.Plugin.FileSource.WIC.WICGifVideoSource.DrawCurrentFrame(TimeSpan time) in D:\repos\YukkuriMovieMaker\WicGifSourcePlugin\WICGifVideoSource.cs:line 255
+   at YukkuriMovieMaker.Plugin.FileSource.WIC.WICGifVideoSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\WicGifSourcePlugin\WICGifVideoSource.cs:line 320
+   at YukkuriMovieMaker.Player.Video.Items.VideoSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Player\Video\Items\VideoSource.cs:line 38
+   at YukkuriMovieMaker.Player.Video.TimelineSource.Update(TimeSpan time) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Player\Video\TimelineSource.cs:line 56
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.Render(Int32 frame) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 275
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.<>c__DisplayClass13_1.<CreateFileAsync>b__3() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 144
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.WaitAllCore(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.<>c__DisplayClass13_0.<CreateFileAsync>b__1() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 184
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at YukkuriMovieMaker.VideoFileWriter.VideoFileWriter.CreateFileAsync(ProgressMessage progressMessage, CancellationToken cancellationToken) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\VideoFileWriter\VideoFileWriter.cs:line 88
+   at YukkuriMovieMaker.ViewModels.MainViewModel.CreateMp4FileAsync(IVideoFileWriterPlugin plugin, String file, Timeline timeline, ProgressMessage progressMessage, CancellationToken token) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\ViewModels\MainViewModel.cs:line 2083

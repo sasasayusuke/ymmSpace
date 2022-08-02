@@ -1,7 +1,7 @@
 ﻿{
   "VideoBitRateMode": "Auto",
   "VideoBitRateControlMode": "UnconstrainedVBR",
-  "VideoBitRate": 240000,
+  "VideoBitRate": 13056,
   "VideoQuality": 70,
   "AudioBitRate": "kb192",
   "IsAudioCrapFixEnabled": true,
@@ -9,7 +9,7 @@
   "H264Level": "Auto",
   "AACProfile": "AACL2",
   "IsFFmpegAACEncoderEnabled": true,
-  "EncodeSpeed": 50,
+  "EncodeSpeed": 32,
   "NumberOfThreads": 0,
   "GOPSize": 0,
   "BFrameCount": 2,
@@ -17,9 +17,9 @@
   "MaxQP": 51,
   "IsHardwareAcceleration": false,
   "IsCABACEnabled": true,
-  "Width": 1080,
-  "Height": 1920,
+  "Width": 1280,
+  "Height": 720,
   "FPS": 60,
   "Hz": 48000,
-  "Length": 870
+  "Length": 108653
 }
