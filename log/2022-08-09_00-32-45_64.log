@@ -1,0 +1,47 @@
+﻿ゆっくりMovieMaker v4.7.0.1
+2022/08/09 0:32:45
+Microsoft Windows 10.0.19044 / X64 Process on X64 OS
+.NET 6.0.7
+CPU : Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+GPU : Intel(R) UHD Graphics 620
+残り物理メモリ : 1,031,016 / 8,161,204KB
+残り仮想メモリ : 14,094,580 / 27,035,572KB
+残りページングファイル : 17,381,320 / 18,874,368KB
+
+------------------- 
+[2022/08/09 00:32:46.14] VOICEVOXに接続できませんでした
+System.Net.Http.HttpRequestException: 対象のコンピューターによって拒否されたため、接続できませんでした。 (127.0.0.1:50031)
+ ---> System.Net.Sockets.SocketException (10061): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at YukkuriMovieMaker.Voice.VOICEVOXAPI.GetJsonWithGetMethodAsync(String url) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Voice\VOICEVOXAPI.cs:line 123
+[2022/08/09 00:32:49.40] ゆっくりボイスの生成に失敗しました。
+セリフ：
+発音：さあ
+ｓｓｄふぁｓら/あささささ/_スくすかさささ/ずら/らさ
+/ささら/らららさ/され/ららららささ/ららら/ずら/あ/ずら/ずら/ず/らら/あー/さらら/さららら/ず/らっさえら/ず/らっさらららら
+System.Exception: ゆっくりボイスの生成に失敗しました。
+ゆっくりボイスを生成できませんでした。AT1-105 音声記号列に未定義の読み記号が指定された。「さあｓｓｄふぁｓら/あささささ/_スくすかさささ/ずら/らさ/ささら/らららさ/され/ららららささ/ららら/ずら/あ/ずら/ずら/ず/らら/あー/さらら/さららら/ず/らっさえら/ず/らっさらららら」
+   at YukkuriMovieMaker.Voice.AquesTalk1VoicePlugin.<>c__DisplayClass11_0.<CreateVoiceAsync>b__0() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Voice\AquesTalk1VoicePlugin.cs:line 67
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at YukkuriMovieMaker.Voice.AquesTalk1VoicePlugin.CreateVoiceAsync(VoiceDescription voice, String koe, IVoiceParameter parameter, String filepath) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Voice\AquesTalk1VoicePlugin.cs:line 54
+   at YukkuriMovieMaker.Plugin.VoiceFactory.CreateVoiceAsync(VoiceDescription voice, String koe, IVoiceParameter parameter, String filepath) in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Plugin\VoiceFactory.cs:line 39
+   at YukkuriMovieMaker.Project.Items.VoiceItem.CreateVoiceFileAsync() in D:\repos\YukkuriMovieMaker\YukkuriMovieMaker\Project\Items\VoiceItem.cs:line 762

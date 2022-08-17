@@ -14,7 +14,9 @@ template = {
     "IsBold": False,
     "IsItalic": False,
     "Scale": 1.0,
-    "IsLineBreak": True,
+    "Font": None,
+    "Foreground": None,
+    "IsLineBreak": False,
     "HasDecoration": False
 }
 
@@ -43,10 +45,8 @@ for p in path:
                 item["Decorations"] = []
                 length = 0
                 for num in range(len(sentence), limitR):
-                    if (num == limitR - 1):
-                        sentence.append(" " * limitC + ".")
-                    else:
-                        sentence.append("")
+                    sentence.append("")
+                sentence[limitR - 1] = " " * limitC + "."
 
                 for i in range(len(sentence)):
                     decoLine = jsn["IdDeco"].copy()
@@ -66,13 +66,13 @@ for p in path:
                     # 最終行テキスト
                     elif (i == limitR - 1):
                         textLine["Start"] = length
-                        textLine["Length"] = len(sentence[i]) - 1
-                        length = length + len(sentence[i]) - 1
+                        textLine["Length"] = len(sentence[i])
+                        length = length + len(sentence[i])
 
                         #textLine2 = template.copy()
                         #textLine2["Start"] = length
                         #textLine2["Length"] = 1
-                        #textLine2["Foreground"] = "#111111",
+                        #textLine2["Foreground"] = "#111111"
 
                         item["Decorations"].append(textLine)
                         #item["Decorations"].append(textLine2)
@@ -88,7 +88,8 @@ for p in path:
                 h[0] = ""
                 item["Serif"] = "\r\n".join(sentence)
                 item["Hatsuon"] = "\r\n".join(h)
-                del item["VoiceCache"]
+                if "VoiceCache" in item:
+                    del item["VoiceCache"]
 
     with open(p.absolute(), 'w', encoding="utf_8_sig") as outfile:
         json.dump(ymm, outfile, ensure_ascii=False, indent=2)
